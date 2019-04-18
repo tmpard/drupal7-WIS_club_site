@@ -1,0 +1,16 @@
+name: Project Theme
+type: theme
+description: a test theme for school project
+Core: 8.x
+libraries:
+  - themename/global-styling-and-scripts
+regions:
+header: Header
+primary_menu: 'Primary menu'
+secondary_menu: 'Secondary menu'
+page_top: 'Page top'
+page_bottom: 'Page bottom'
+highlighted: Highlighted
+featured_top: 'Featured top'
+breadcrumb: Breadcrumb
+content: 'Content'
