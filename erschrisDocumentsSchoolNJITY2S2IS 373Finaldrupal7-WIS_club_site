@@ -1,0 +1,190 @@
+[33mcommit 51d3c33e969d03994c7378e6d6f24fd65c8cd8b5[m[33m ([m[1;36mHEAD -> [m[1;32mforum[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Wed May 15 13:19:16 2019 -0400
+
+    Task: content population
+
+[33mcommit ce1e3e6ab9b7700e3316265597ee29ab1ecb1e28[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 21:10:48 2019 -0400
+
+    Task: job content type update
+
+[33mcommit d74fc9b52d0f09ff62f08212bcf01d913630beef[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 18:00:38 2019 -0400
+
+    Task: donation module + DB restore
+
+[33mcommit 2ed7092f3ef74f31d88d123f8e9bd07c5836ad35[m[33m ([m[1;31morigin/dbRestore[m[33m)[m
+Merge: 43f177f 522525f
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 17:47:34 2019 -0400
+
+    Merge remote-tracking branch 'github/master'
+    
+    # Conflicts:
+    #       sites/default/files/database.sqlite
+
+[33mcommit 43f177f9beef21ec729d8fc6e616c77639e2518c[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 17:46:55 2019 -0400
+
+    Task: donation module + DB restore
+
+[33mcommit 3d14354ac512677b250ad89bd0201a4f4053026d[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 17:27:48 2019 -0400
+
+    Task: better filter module
+
+[33mcommit 522525f745903a060eecbe6648510800ea45b274[m[33m ([m[1;31morigin/donation[m[33m)[m
+Author: Emad <et75@njit.edu>
+Date:   Tue May 14 17:11:38 2019 -0400
+
+    Pay Module
+
+[33mcommit 7484bc855485b4a6de68650382a3c227ff49c80f[m
+Author: Emad <et75@njit.edu>
+Date:   Tue May 14 16:58:28 2019 -0400
+
+    Donation Module
+
+[33mcommit 7cf4e5deb8a0d48c6d7545bcdfd21c12e192eb82[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 15:49:25 2019 -0400
+
+    Task: created employment type taxonomy, job posting content type, job posting view + filters
+
+[33mcommit 74c271d18bd7721d3fc0517186116a82f2c5f687[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 14:24:30 2019 -0400
+
+    Task: student profile using Profile2 module
+
+[33mcommit 8e15f2fb4a52751a360a22616c8bd2c033a04ba3[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 13:56:59 2019 -0400
+
+    Task: login/logout button
+
+[33mcommit 74244133000b2baffbeedefe0af230575045e915[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue May 14 13:09:14 2019 -0400
+
+    Task: studentProfile config
+
+[33mcommit 72d40f5b0e0301467fa0bbce3b340477e5039591[m[33m ([m[1;31morigin/Alumn[m[33m)[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Wed May 8 20:26:19 2019 -0400
+
+    Task: event type taxonomy update, entity API and entity registration installation, registration type creation
+
+[33mcommit c59035b4b1a75c15a470746116849b28e6cad562[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Mon May 6 20:19:08 2019 -0400
+
+    Task: calendar view
+
+[33mcommit 3101edd2a953f26e3b385f00aa90ffa403a8eaf9[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Wed May 1 14:14:40 2019 -0400
+
+    Task: push config file
+
+[33mcommit 1ad27e16dea0e8724f6208e2c8966cc40e6b99c7[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Wed May 1 13:47:42 2019 -0400
+
+    Task: push config file
+
+[33mcommit b464d06e541fdf3a3547913352b732d85a3c113c[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Tue Apr 23 20:41:34 2019 -0400
+
+    Task: themes finalized
+
+[33mcommit 0946b99423f21bcf142e0350ef697e28d2c453e2[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Fri Apr 19 16:29:09 2019 -0400
+
+    revert to 3e9089a
+
+[33mcommit b136a71acfeb482df1f41561192c439fe90de80c[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 14:12:53 2019 -0400
+
+    Task: theme fixes
+
+[33mcommit c34b0a34e9b586024f3bf5122b118bcd5c07a4a6[m
+Merge: 0eabffc 3e9089a
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 14:12:25 2019 -0400
+
+    Merge remote-tracking branch 'github/master'
+
+[33mcommit 0eabffc92068fb851b2e84b7469b801ab755d280[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:53:20 2019 -0400
+
+    Task: status error message and content variables
+
+[33mcommit 22ddbd698156ceee2590b98b92fa1305b00d67d1[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:45:17 2019 -0400
+
+    Task: cleaning up unnecessary divs and and classes from block.tpl.php
+
+[33mcommit 0248887fd4f12187d72544008c6f949b402dc577[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:44:54 2019 -0400
+
+    Task: cleaning up unnecessary divs and and classes from region.tpl.php
+
+[33mcommit 741199b8f137cbaedf985a618a25f734aee02dbe[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:43:50 2019 -0400
+
+    Task: cleaning up unnecessary divs and and classes from field.tpl.php
+
+[33mcommit 37c6a44a38a00abb62e08937b564f4ca400c639c[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:37:53 2019 -0400
+
+    Task: adding default template files to templates folder
+
+[33mcommit c55169f37be589c9637b2b05e4d6403dec973236[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Thu Apr 18 13:30:10 2019 -0400
+
+    Task: myTheme initial files+directory setup
+
+[33mcommit 3e9089ac9d3df0deb805ddd7ebd5ed3b97378347[m
+Author: Peter's PC <phe3@njit.edu>
+Date:   Tue Apr 16 23:34:02 2019 -0400
+
+    Theme creation
+
+[33mcommit 6c9d80a4386526ce529aefa21c38be1b46b222b1[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Sun Apr 7 15:33:40 2019 -0400
+
+    Task: example DBTNG module enabled
+
+[33mcommit ee55507f3595b0246242dbc2928fc4906c71eefe[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Sun Apr 7 15:05:23 2019 -0400
+
+    .gitignore fixes
+
+[33mcommit b71ea42357d2dbc41e3ffa830be9f65f68bb699e[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Sun Apr 7 14:35:29 2019 -0400
+
+    Task: update .gitignore file
+
+[33mcommit fb3766b38550f1b7abe8cda3775f152b6240df68[m
+Author: tmpard <triciapardave@gmail.com>
+Date:   Sun Apr 7 14:32:43 2019 -0400
+
+    Initial commit
